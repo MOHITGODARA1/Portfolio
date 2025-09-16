@@ -1,6 +1,6 @@
 # 🌟 Personal Portfolio Website
 
-![Portfolio Preview](https://via.placeholder.com/1200x600.png?text=Portfolio+Preview)
+![Portfolio Preview](https://portfolio-qvit.vercel.app/)
 
 A modern, responsive, and interactive **portfolio website** built with **React.js** and **Tailwind CSS** to showcase my skills, projects, and achievements.  
 Designed to create a lasting impression with clean UI, smooth animations, and fast performance.  
@@ -31,7 +31,7 @@ Designed to create a lasting impression with clean UI, smooth animations, and fa
 
 ## 🔗 Live Demo
 
-👉 [Check out my portfolio here](https://your-portfolio-link.com)
+👉 [Check out my portfolio here](https://portfolio-qvit.vercel.app/)
 
 ---
 
@@ -39,9 +39,9 @@ Designed to create a lasting impression with clean UI, smooth animations, and fa
 
 If you’d like to collaborate or just say hi 👋:
 
-- Email: **your.email@example.com**  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- GitHub: [Your GitHub](https://github.com/MOHITGODARA1)  
+- Email: **mohitgodara816@gmail.com**  
+- LinkedIn: [LinkedIn](https://linkedin.com/in/yourprofile)  
+- GitHub: [GitHub](https://github.com/MOHITGODARA1)  
 
 ---
 
