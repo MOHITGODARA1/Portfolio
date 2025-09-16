@@ -24,19 +24,21 @@ function Introduction(){
           </h1>
         </div>
         <div className="w-full h-auto flex justify-center items-center">
-          <p className="text-gray-200 text-center ml-41 mr-41 mt-4">I craft modern, responsive, and efficient web applications.
+          <p className="text-gray-200 text-center md:ml-41 md:mr-41 ml-5 mr-5 mt-4">I craft modern, responsive, and efficient web applications.
             Combining design, logic, and innovation to deliver impactful solutions.
             Always learning, improving, and pushing ideas into reality through code.</p>
         </div>
-        <div className="w-full h-auto flex justify-center items-center gap-5 mt-9">
-          {
-            language.map((item,index)=>(
-              <div className="rounded-4xl h-9 w-25 bg-gray-300/60 flex justify-center items-center cursor-default transition-transform duration-300 hover:translate-y-1" key={index}>
-                <h1 className="text-white">{item}</h1>
-              </div>
-            ))
-          }
+        <div className="w-full h-auto flex gap-5 mt-9 overflow-x-auto whitespace-nowrap scrollbar-hide">
+          {language.map((item, index) => (
+            <div
+             key={index}
+              className="rounded-4xl h-9 w-25 bg-gray-300/60 flex-shrink-0 flex justify-center items-center cursor-default transition-transform duration-300 hover:-translate-y-1"
+            >
+              <h1 className="text-white">{item}</h1>
+            </div>
+          ))}
         </div>
+
       </div>
     </>
   );
