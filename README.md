@@ -40,7 +40,7 @@ Designed to create a lasting impression with clean UI, smooth animations, and fa
 If you’d like to collaborate or just say hi 👋:
 
 - Email: **mohitgodara816@gmail.com**  
-- LinkedIn: [LinkedIn](https://linkedin.com/in/yourprofile)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohit-godara-0a03ab283/)  
 - GitHub: [GitHub](https://github.com/MOHITGODARA1)  
 
 ---
